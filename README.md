@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-despedida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Abrazo de despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-despedida/) |
+| **Get License** | [Get License For Abrazo de despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-despedida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la ciudad nos pertenece
+> Tu mirada me busca y el deseo crece
+> Solo tú y yo cruzando la carretera
+> Con este ritmo que te atrapa de cualquier manera
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
