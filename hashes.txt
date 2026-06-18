@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo de despedida
+
+This log tracks the cryptographic history and versioning for the song **Abrazo de despedida** (abrazo-de-despedida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:38:36.351705 | `v1` | `41814a2839eabe25704a5c43467d65472186b03b7d06e516afb615faf2ff1ed1` | `5a6f3f4ff72de69e3b554fb9fedad2b07c81da7eaddd29067162c77aad3b26bb` | `2026-06-18_abrazo-de-despedida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
